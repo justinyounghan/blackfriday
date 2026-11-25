@@ -1,0 +1,15 @@
+{
+  "name": "Etona",
+  "url": "https://etona.app",
+  "description": "Notes for Mac, iPhone and iPad with no folders: Etona finds the themes in your notes and writes a page for each, every sentence linked to its note",
+  "category": "writing",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "40% off the first year of Etona Pro ($49.99 → $29.99), code ETONALAUNCH",
+  "code": "ETONALAUNCH",
+  "pricing": "subscription",
+  "price": { "regular": 49.99, "sale": 29.99, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-07",
+  "icon": "https://etona.app/apple-touch-icon.png"
+}
